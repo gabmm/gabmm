@@ -11,4 +11,5 @@ Sou o Gabriel Medeiros, estudante do 4º período de Ciência da Computação pe
 ######
 ☎️ (32) 9 91064755 <br>
 📧 gmedeiros991@gmail.com <br>
+✔️ <a href="https://www.linkedin.com/in/gabrielmed/">linkedin.com/in/gabrielmed/</a>
 🌐 <a href="https://gabmm.github.io/">gabmm.github.io</a>
